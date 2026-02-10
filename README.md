@@ -107,6 +107,3 @@ The dataset used in this project is publicly available at:
 
 ---
 
-## ✨ Author
-
-S. A. Erfan Ahamed
