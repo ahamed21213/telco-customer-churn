@@ -64,7 +64,8 @@ To identify customers who are likely to cancel their subscription (churn) and co
 
 ![Confusion Matrix – MLP](confusion_matrix_mlp.png)
 
-> All confusion matrices are generated on the test set and stored in the `images/` folder.
+
+
 
 ---
 
