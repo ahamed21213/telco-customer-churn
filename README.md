@@ -46,23 +46,23 @@ To identify customers who are likely to cancel their subscription (churn) and co
 
 ### Decision Tree
 
-![Confusion Matrix – Decision Tree](images/confusion_matrix_dt.png)
+![Confusion Matrix – Decision Tree](confusion_matrix_dt.png)
 
 ### KNN
 
-![Confusion Matrix – KNN](images/confusion_matrix_knn.png)
+![Confusion Matrix – KNN](confusion_matrix_knn.png)
 
 ### Naive Bayes
 
-![Confusion Matrix – Naive Bayes](images/confusion_matrix_nb.png)
+![Confusion Matrix – Naive Bayes](confusion_matrix_nb.png)
 
 ### SVM
 
-![Confusion Matrix – SVM](images/confusion_matrix_svm.png)
+![Confusion Matrix – SVM](confusion_matrix_svm.png)
 
 ### MLP
 
-![Confusion Matrix – MLP](images/confusion_matrix_mlp.png)
+![Confusion Matrix – MLP](confusion_matrix_mlp.png)
 
 > All confusion matrices are generated on the test set and stored in the `images/` folder.
 
